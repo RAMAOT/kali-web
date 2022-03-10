@@ -22,8 +22,6 @@ COPY root.sh /usr/local/bin/root.sh
 COPY .bashrc $HOME/.bashrc
 RUN apt-get install -y wget 
 RUN apt-get install -y curl
-RUN apt-get install -y python
-RUN apt-get install -y python2
 
 ADD https://github.com/ramaot/ttyd/releases/download/1.6.1/ttyd_linux.x86_64 /usr/local/bin/ttyd
 RUN chmod +x /usr/local/bin/ttyd
