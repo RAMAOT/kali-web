@@ -1,4 +1,8 @@
 ![](https://img.shields.io/badge/Kali-Latest-green) ![](https://img.shields.io/badge/Docker-kalilinux/kali-yellow)
+Railway VPS
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/RAMAOT/kali-web)
+
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/RAMAOT/kali-web)
 # kali-web
